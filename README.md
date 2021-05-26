@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Alina @alinanovof
+- 👀 I’m interested in frontend development, making websites as user-friendly as possible, working with SQL databases, horseback riding, trabeling!
+- 🌱 I’m currently learning JavaScript, Unit Testing, AWS
+- 📫 How to reach me: alinanovof@gmail.com | Instagram: @alina_codes | Telegram: alinanovof
